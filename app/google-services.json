@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "591551959678",
+    "project_id": "tomasino-b7db3",
+    "storage_bucket": "tomasino-b7db3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591551959678:android:872a0c92838463ac14fe2f",
+        "android_client_info": {
+          "package_name": "com.codingwithzo.realtimedbaddreadupdatedelete"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591551959678-fuoqmt0chg7mf6c5uq3evtdoo17gbi63.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9ak26PBx2gIbvWjq58Zkr2w4R0aQbb10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591551959678-fuoqmt0chg7mf6c5uq3evtdoo17gbi63.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
